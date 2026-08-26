@@ -1,1 +1,7 @@
-print("This is my first workshop regarding git for devops, So chaliye shuru karte hai!!!")
+def hello():
+    """
+    This function returns a greeting message.
+    """
+    return "Hello Dosto"
+
+hello()
