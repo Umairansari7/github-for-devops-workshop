@@ -1,7 +1,4 @@
-
-
 def hello():
-
 
     """
     This function returns a greeting message.
@@ -9,4 +6,3 @@ def hello():
     return "Hello Dosto"
 
 hello()
-
